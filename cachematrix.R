@@ -51,3 +51,4 @@ cacheSolve <- function(x) {
 # cacheSolve(test)
 # test$get()
 # test$getinverse()
+# cacheSolve(test)
