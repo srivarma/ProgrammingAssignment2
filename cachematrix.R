@@ -47,8 +47,9 @@ cacheSolve <- function(x) {
 
 # Below code can be used to verify the results
 
+
 # test=makeCacheMatrix(matrix(c(1:4),2,2))
 # cacheSolve(test)
 # test$get()
 # test$getinverse()
-# cacheSolve(test)
+# cacheSolve(test) 
